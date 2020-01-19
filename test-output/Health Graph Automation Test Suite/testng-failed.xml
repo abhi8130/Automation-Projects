@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Health Graph Automation Test Suite]">
+  <test name="Health Graph Automation Test Cases(failed)">
+    <classes>
+      <class name="com.qa.automation.tests.HomePageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="homePagePageTitleTest"/>
+        </methods>
+      </class> <!-- com.qa.automation.tests.HomePageTest -->
+      <class name="com.qa.automation.tests.SignUpPageTest">
+        <methods>
+          <include name="signUpModuleTest"/>
+          <include name="setUp"/>
+          <include name="validateCreateNewAccountTxtTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.automation.tests.SignUpPageTest -->
+    </classes>
+  </test> <!-- Health Graph Automation Test Cases(failed) -->
+</suite> <!-- Failed suite [Health Graph Automation Test Suite] -->

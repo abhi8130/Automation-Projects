@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Health Graph Automation Test Suite">
+	<test name="Health Graph Automation Test Cases">
+		<classes>
+			<class name="com.qa.automation.tests.HomePageTest"></class>
+			<class name="com.qa.automation.tests.SearchCityWeatherPageTest"></class>
+			<class name="com.qa.automation.tests.SignUpPageTest"></class>
+		</classes>
+	</test>
+</suite>
