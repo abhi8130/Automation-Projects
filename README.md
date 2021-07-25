@@ -26,6 +26,6 @@ Maven
 ###### config.properties file is there for having url,username,password,email,company name,validCity,invalidCity
 
 # Acceptance Criteria:
-######1. HomePage - contains method i.e validateHomePageTitle, validateOpenWeatherLogo & verifyBrokenLinksHomeModule
-######2. SearchCityWeatherPage.java - contains method i.e. validateSearchCityWeatherPageTitle, validateNoFoundTxt, searchByValidCity & searchByInValidCity
-######3. SignUpPage - contains method i.e. validateSignUpPageTitle, validatecreateNewAccountTxt, signUpModule
+1. HomePage - contains method i.e validateHomePageTitle, validateOpenWeatherLogo & verifyBrokenLinksHomeModule
+2. SearchCityWeatherPage.java - contains method i.e. validateSearchCityWeatherPageTitle, validateNoFoundTxt, searchByValidCity & searchByInValidCity
+3. SignUpPage - contains method i.e. validateSignUpPageTitle, validatecreateNewAccountTxt, signUpModule
